@@ -1,0 +1,321 @@
+8 THREADS
+
+Arquivo em analise: entradas/pequena.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.272809000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+Arquivo em analise: entradas/pequena.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.303045000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+Arquivo em analise: entradas/pequena.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.266459000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+Arquivo em analise: entradas/pequena.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.297679000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+Arquivo em analise: entradas/pequena.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.334456000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+MEDIA
+
+Arquivo em analise: entradas/media.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.525741000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+Arquivo em analise: entradas/media.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.470181000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+Arquivo em analise: entradas/media.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.548882000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+Arquivo em analise: entradas/media.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.538026000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+Arquivo em analise: entradas/media.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.522876000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+GRANDE
+
+Arquivo em analise: entradas/grande.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.972689000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+Arquivo em analise: entradas/grande.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.781488000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+Arquivo em analise: entradas/grande.txt
+Quantidade de threads: 8
+Tempo de execucao: 1.247123000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+Arquivo em analise: entradas/grande.txt
+Quantidade de threads: 8
+Tempo de execucao: 1.108536000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+Arquivo em analise: entradas/grande.txt
+Quantidade de threads: 8
+Tempo de execucao: 0.971692000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)

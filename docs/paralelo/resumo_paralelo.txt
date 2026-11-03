@@ -1,0 +1,116 @@
+PROBLEMA 13 - DISTANCIAS DE PONTOS 3D
+RESUMO DOS TESTES PARALELOS
+
+AMBIENTE DE EXECUCAO
+Processador: Intel Core i5-14600KF
+Memoria RAM: 32 GB
+Sistema: Ubuntu via WSL no Windows
+CPUs logicas reconhecidas na configuracao AUTO: 20
+Linguagem: C com pthread.h
+
+METODOLOGIA
+Entradas: pequena (20.000), media (120.000), grande (300.000) pontos.
+Configuracoes: 2, 4, 8 e 20 threads (AUTO).
+Foram registradas 5 execucoes individuais por configuracao.
+Tempos em milissegundos (ms).
+Medicao paralela: criacao das threads, calculos e pthread_join.
+Leitura de arquivo e procura dos pontos extremos fora da regiao cronometrada.
+Os valores sequenciais abaixo foram informados em testes anteriores no mesmo computador.
+
+=================================================================
+ENTRADA PEQUENA - 20000 PONTOS
+
+Sequencial (5 repeticoes) - media: 0.082820800 ms
+Configuracao: 2 threads
+Tempos: 0.128684000, 0.175489000, 0.130486000, 0.143069000, 0.124655000 ms
+Media: 0.140476600 ms
+Speedup vs sequencial: 0.5896x
+Eficiencia: 29.48%
+
+Configuracao: 4 threads
+Tempos: 0.250996000, 0.187546000, 0.281551000, 0.166287000, 0.156147000 ms
+Media: 0.208505400 ms
+Speedup vs sequencial: 0.3972x
+Eficiencia: 9.93%
+
+Configuracao: 8 threads
+Tempos: 0.272809000, 0.303045000, 0.266459000, 0.297679000, 0.334456000 ms
+Media: 0.294889600 ms
+Speedup vs sequencial: 0.2809x
+Eficiencia: 3.51%
+
+Configuracao: 20 threads (AUTO / maximo)
+Tempos: 0.678730000, 0.842731000, 0.945602000, 0.974749000, 0.618948000 ms
+Media: 0.812152000 ms
+Speedup vs sequencial: 0.1020x
+Eficiencia: 0.51%
+
+=================================================================
+ENTRADA MEDIA - 120000 PONTOS
+
+Sequencial (5 repeticoes) - media: 0.441665800 ms
+Configuracao: 2 threads
+Tempos: 0.331700000, 0.337997000, 0.343861000, 0.485404000, 0.358837000 ms
+Media: 0.371559800 ms
+Speedup vs sequencial: 1.1887x
+Eficiencia: 59.43%
+
+Configuracao: 4 threads
+Tempos: 0.409369000, 0.405286000, 0.941579000, 0.481699000, 0.421248000 ms
+Media: 0.531836200 ms
+Speedup vs sequencial: 0.8305x
+Eficiencia: 20.76%
+
+Configuracao: 8 threads
+Tempos: 0.525741000, 0.470181000, 0.548882000, 0.538026000, 0.522876000 ms
+Media: 0.521141200 ms
+Speedup vs sequencial: 0.8475x
+Eficiencia: 10.59%
+
+Configuracao: 20 threads (AUTO / maximo)
+Tempos: 1.621897000, 1.576650000, 1.100588000, 0.831245000, 0.597970000 ms
+Media: 1.145670000 ms
+Speedup vs sequencial: 0.3855x
+Eficiencia: 1.93%
+
+=================================================================
+ENTRADA GRANDE - 300000 PONTOS
+
+Sequencial (5 repeticoes) - media: 0.983126800 ms
+Configuracao: 2 threads
+Tempos: 0.806026000, 0.815799000, 0.771462000, 0.775571000, 0.775912000 ms
+Media: 0.788954000 ms
+Speedup vs sequencial: 1.2461x
+Eficiencia: 62.31%
+
+Configuracao: 4 threads
+Tempos: 0.754127000, 0.701732000, 0.721752000, 0.761651000, 0.950952000 ms
+Media: 0.778042800 ms
+Speedup vs sequencial: 1.2636x
+Eficiencia: 31.59%
+
+Configuracao: 8 threads
+Tempos: 0.972689000, 0.781488000, 1.247123000, 1.108536000, 0.971692000 ms
+Media: 1.016305600 ms
+Speedup vs sequencial: 0.9674x
+Eficiencia: 12.09%
+
+Configuracao: 20 threads (AUTO / maximo)
+Tempos: 1.654720000, 1.218004000, 1.548978000, 1.651105000, 2.484858000 ms
+Media: 1.711533000 ms
+Speedup vs sequencial: 0.5744x
+Eficiencia: 2.87%
+
+=================================================================
+MEDIAS CONSOLIDADAS (ms)
+Entrada       Sequencial   2 threads   4 threads   8 threads  20 threads
+pequena         0.082821    0.140477    0.208505    0.294890    0.812152
+media           0.441666    0.371560    0.531836    0.521141    1.145670
+grande          0.983127    0.788954    0.778043    1.016306    1.711533
+
+OBSERVACOES
+- As medias incluem todos os cinco tempos informados, sem excluir valores atipicos.
+- Speedup menor do que 1 indica que a execucao paralela foi mais lenta.
+- Para comparacoes justas, os dois programas devem usar a mesma entrada e a mesma otimizacao de compilacao.
+- A identificacao de extremos e as primeiras cinco distancias coincidem nos resultados exibidos.
+- A equivalencia completa dos vetores ainda deve ser verificada programaticamente.

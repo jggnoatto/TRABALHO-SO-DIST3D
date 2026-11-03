@@ -1,0 +1,346 @@
+PROBLEMA 13 - DISTÂNCIAS DE PONTOS 3D
+RESULTADOS DO PROGRAMA SEQUENCIAL
+Total: 15 execuções (5 por entrada)
+Tempos em milissegundos (ms)
+
+=================================================================
+ENTRADA PEQUENA - 20000 PONTOS
+=================================================================
+
+EXECUÇÃO 1
+Arquivo em análise: entradas/pequena.txt
+Tempo de execucao: 0.066322000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+EXECUÇÃO 2
+Arquivo em análise: entradas/pequena.txt
+Tempo de execucao: 0.064970000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+EXECUÇÃO 3
+Arquivo em análise: entradas/pequena.txt
+Tempo de execucao: 0.068583000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+EXECUÇÃO 4
+Arquivo em análise: entradas/pequena.txt
+Tempo de execucao: 0.086603000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+EXECUÇÃO 5
+Arquivo em análise: entradas/pequena.txt
+Tempo de execucao: 0.127626000 ms
+Ponto mais proximo: 5432
+Coordenadas: (2.2416, -1.6319, 4.0617)
+Distancia: 2.7257
+
+Ponto mais distante: 2602
+Coordenadas: (97.3940, 94.8868, -99.3441)
+Distancia: 170.0040
+
+Primeiras 5 distancias:
+Ponto 1: 59.6544
+Ponto 2: 149.5217
+Ponto 3: 70.2438
+Ponto 4: 109.1392
+Ponto 5: 76.7338
+Quantidade de pontos: 20000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-22.42, -19.26, 54.05)
+
+
+=================================================================
+ENTRADA MEDIA - 120000 PONTOS
+=================================================================
+
+EXECUÇÃO 1
+Arquivo em análise: entradas/media.txt
+Tempo de execucao: 0.424104000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+
+EXECUÇÃO 2
+Arquivo em análise: entradas/media.txt
+Tempo de execucao: 0.440472000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+
+EXECUÇÃO 3
+Arquivo em análise: entradas/media.txt
+Tempo de execucao: 0.464985000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+
+EXECUÇÃO 4
+Arquivo em análise: entradas/media.txt
+Tempo de execucao: 0.423290000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+
+EXECUÇÃO 5
+Arquivo em análise: entradas/media.txt
+Tempo de execucao: 0.455478000 ms
+Ponto mais proximo: 27413
+Coordenadas: (1.5912, -0.9999, 2.2272)
+Distancia: 1.1423
+
+Ponto mais distante: 46675
+Coordenadas: (-99.6282, 97.6025, -99.2578)
+Distancia: 173.3511
+
+Primeiras 5 distancias:
+Ponto 1: 103.6061
+Ponto 2: 133.9853
+Ponto 3: 94.8600
+Ponto 4: 130.7936
+Ponto 5: 97.0492
+Quantidade de pontos: 120000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (57.36, -49.42, -69.98)
+
+
+=================================================================
+ENTRADA GRANDE - 300000 PONTOS
+=================================================================
+
+EXECUÇÃO 1
+Arquivo em análise: entradas/grande.txt
+Tempo de execucao: 0.977801000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+
+EXECUÇÃO 2
+Arquivo em análise: entradas/grande.txt
+Tempo de execucao: 0.952988000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+
+EXECUÇÃO 3
+Arquivo em análise: entradas/grande.txt
+Tempo de execucao: 0.994760000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+
+EXECUÇÃO 4
+Arquivo em análise: entradas/grande.txt
+Tempo de execucao: 0.999059000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+
+
+EXECUÇÃO 5
+Arquivo em análise: entradas/grande.txt
+Tempo de execucao: 0.991026000 ms
+Ponto mais proximo: 136480
+Coordenadas: (0.6534, -1.8170, 1.5300)
+Distancia: 0.7523
+
+Ponto mais distante: 35303
+Coordenadas: (-98.8609, -99.5811, -99.0855)
+Distancia: 172.5105
+
+Primeiras 5 distancias:
+Ponto 1: 69.3783
+Ponto 2: 98.0837
+Ponto 3: 97.7943
+Ponto 4: 81.1034
+Ponto 5: 88.0614
+Quantidade de pontos: 300000
+Ponto de referencia: (0.50, -1.25, 2.00)
+Primeiro ponto: (-35.15, -59.98, 11.66)
+

@@ -1,0 +1,63 @@
+PROBLEMA 13 - DISTÂNCIAS DE PONTOS 3D
+RESUMO DOS TESTES - IMPLEMENTAÇÃO SEQUENCIAL
+
+1. CONFIGURAÇÃO DO COMPUTADOR
+----------------------------------------
+Processador: Intel Core i5-14600KF 20 CPUs lógicas (threads)
+Memória RAM: 32 GB
+Sistema/ambiente de execução: Ubuntu via WSL (Windows Subsystem for Linux)
+Linguagem: C
+Implementação: sequencial (1 fluxo de execução)
+
+Observação: versão do Ubuntu, versão do GCC e quantidade de CPUs lógicas
+não foram informadas; registrar esses dados no relatório final.
+
+2. METODOLOGIA
+----------------------------------------
+Foram utilizadas as três entradas fornecidas pelo professor.
+Cada entrada foi executada 5 vezes no mesmo computador.
+O tempo registrado corresponde ao cálculo das distâncias, sem incluir
+a leitura do arquivo nem a busca posterior pelos pontos extremos.
+Unidade dos tempos: milissegundos (ms).
+
+3. TEMPOS INDIVIDUAIS E MÉDIAS
+----------------------------------------
+ENTRADA PEQUENA - 20.000 pontos
+Execução 1: 0.066322000 ms
+Execução 2: 0.064970000 ms
+Execução 3: 0.068583000 ms
+Execução 4: 0.086603000 ms
+Execução 5: 0.127626000 ms
+MÉDIA:      0.082820800 ms (aprox. 0.082821 ms)
+
+ENTRADA MÉDIA - 120.000 pontos
+Execução 1: 0.424104000 ms
+Execução 2: 0.440472000 ms
+Execução 3: 0.464985000 ms
+Execução 4: 0.423290000 ms
+Execução 5: 0.455478000 ms
+MÉDIA:      0.441665800 ms (aprox. 0.441666 ms)
+
+ENTRADA GRANDE - 300.000 pontos
+Execução 1: 0.977801000 ms
+Execução 2: 0.952988000 ms
+Execução 3: 0.994760000 ms
+Execução 4: 0.999059000 ms
+Execução 5: 0.991026000 ms
+MÉDIA:      0.983126800 ms (aprox. 0.983127 ms)
+
+4. RESUMO GERAL
+----------------------------------------
+Entrada       Pontos       Execuções    Tempo médio (ms)
+Pequena       20.000       5            0.082820800
+Média         120.000      5            0.441665800
+Grande        300.000      5            0.983126800
+
+5. OBSERVAÇÃO SOBRE OS RESULTADOS
+----------------------------------------
+O tempo médio de execução cresceu conforme o número de pontos aumentou.
+As execuções da mesma entrada apresentaram pequenas variações de tempo,
+mas os resultados calculados para os pontos permaneceram consistentes.
+
+Fonte dos tempos: resultados_sequencial.txt.
+As médias são as médias aritméticas das cinco medições de cada entrada.
